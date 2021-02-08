@@ -1,0 +1,21 @@
+Dear Harry Potter,
+
+Your appointment is with Albus Dumbeldore
+ at 10:00:00.
+
+
+
+Dear Draco Malfoy,
+
+Your appointment is with Severus Snape
+ at 12:00:00.
+
+
+
+Dear Rupert Grint,
+
+Your appointment is with Minerva McGonagol
+ at 13:00:00.
+
+
+

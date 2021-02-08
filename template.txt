@@ -1,0 +1,3 @@
+Dear NAME,
+
+Your appointment is with TEACHER at TIME.
